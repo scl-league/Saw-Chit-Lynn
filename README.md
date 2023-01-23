@@ -2,5 +2,13 @@
 
 🍀 🥬 I'm self-taugh programmer and passion to learn new programming language. :basecamp:
 
+📖 Reach me out!
+
+
+:mailbox: Reach me out!
+ 
+[![Twitter Badge](https://img.shields.io/badge/-@sawlynn-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sawlynn)](https://twitter.com/sawlynn) [![Linkedin Badge](https://img.shields.io/badge/-sawlynn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawlynn/) [![Mail Badge](https://img.shields.io/badge/-@sawlynn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sawlynn) [![Mail Badge](https://img.shields.io/badge/-sawlynn-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lynnsaw9@gmail.com)
+
+
 
 
