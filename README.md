@@ -1,6 +1,6 @@
 ### Hi everyone, 👋 👋 🌟.
 
-🍀 🥬 I'm passion to learn new programming language. :basecamp:
+🍀 🥬 I'm self-taugh programmer and passion to learn new programming language. :basecamp:
 
 
 
