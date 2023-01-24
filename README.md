@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working as self-employ
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with guiding 
+- 🤔 I’m looking for help with guiding to improve my coding. 
 - 📫 How to reach me: lynnsaw9@gmail.com.
-- 😄 Pronouns: Saul.
+- 😄 Pronouns: Saw.
 - ⚡ Fun fact: I do like watching home-decoration and cooking.
  
 #### Top Technologies
